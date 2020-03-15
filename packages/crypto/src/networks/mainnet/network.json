@@ -1,18 +1,18 @@
 {
-    "name": "mainnet",
-    "messagePrefix": "ARK message:\n",
-    "bip32": {
-        "public": 46090600,
-        "private": 46089520
-    },
-    "pubKeyHash": 23,
-    "nethash": "6e84d08bd299ed97c212c886c98a57e36545c8f5d645ca7eeae63a8bd62d8988",
-    "wif": 170,
-    "slip44": 111,
-    "aip20": 0,
-    "client": {
-        "token": "ARK",
-        "symbol": "Ѧ",
-        "explorer": "https://explorer.ark.io"
-    }
+  "name": "mainnet",
+  "messagePrefix": "TGCC message:\n",
+  "bip32": {
+    "public": 46090600,
+    "private": 46089520
+  },
+  "pubKeyHash": 65,
+  "nethash": "71cf20bb6b40cff90012827535e473816d7e6090ddcfd8201243414c2869aa11",
+  "wif": 120,
+  "slip44": 111,
+  "aip20": 0,
+  "client": {
+    "token": "TGCC",
+    "symbol": "T",
+    "explorer": "http://0.0.0.0:4200"
+  }
 }
